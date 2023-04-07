@@ -1,2 +1,5 @@
 create week1
+<<<<<<< HEAD
 chi thuo branch week1 ma thoi
+=======
+thuoc branch week 1
